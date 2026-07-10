@@ -2,7 +2,7 @@
 
 A personal internship report website built with **Hugo** and the **FCJ Workshop template**, documenting my internship experience at **Amazon Web Services Vietnam Co., Ltd.** The site is automatically deployed to **GitHub Pages** via GitHub Actions CI/CD.
 
-🌐 **Live Site:** [https://github.com/Phuc540/aws-internship-report-site](https://github.com/Phuc540/aws-internship-report-site)
+🌐 **Live Site:** [https://Phuc540.github.io/aws-internship-report-site/](https://Phuc540.github.io/aws-internship-report-site/)
 
 ---
 
@@ -52,7 +52,7 @@ aws-internship-report-site/
 │   ├── _index.md                                           # Homepage (English)
 │   ├── _index.vi.md                                        # Homepage (Vietnamese)
 │   │
-│   ├── 1-Worklog/                                          # Weekly activity log (11 weeks)
+│   ├── 1-Worklog/                                          # Weekly activity log (12 weeks)
 │   │   ├── _index.md                                       # Worklog overview (English)
 │   │   ├── _index.vi.md                                    # Worklog overview (Vietnamese)
 │   │   ├── 1.1-Week1/
@@ -70,7 +70,9 @@ aws-internship-report-site/
 │   │
 │   ├── 2-Proposal/                                         # Internship proposal / project plan
 │   │
-│   ├── 3-BlogsTranslated/                                  # Translated AWS blogs
+│   ├── 3-BlogPosted/                                       # Technical blog posts completed during the internship
+│   │   ├── _index.md                                       # Blogs overview (English)
+│   │   ├── _index.vi.md                                    # Blogs overview (Vietnamese)
 │   │   ├── 3.1-Blog1/
 │   │   ├── 3.2-Blog2/
 │   │   └── 3.3-Blog3/
@@ -81,7 +83,7 @@ aws-internship-report-site/
 │   │   ├── 4.1-Event1/                                     # FCAJ Meetup – Career, DevOps, AWS Architecture & MNC Culture
 │   │   └── 4.2-Event2/                                     # Amazon Web Services (AWS): Enterprise Cloud Architectures and Industry Applications
 │   │
-│   ├── 5-Workshop/                                         # Technical workshop documentation
+│   ├── 5-Workshop/                                         # GreenLens Kids project development process and technical practice
 │   │   └── 5.1-GreenLens-project-development-process/
 │   │
 │   ├── 6-Self-evaluation/                                  # Intern self-assessment criteria table
@@ -116,7 +118,7 @@ aws-internship-report-site/
 │
 ├── config.toml                                             # Main Hugo site configuration
 ├── .gitmodules                                             # Git submodule reference (theme)
-├── .gitignore                                              # Ignores public/, logs, editor files
+├── .gitignore                                              # Ignores public/, resources/, logs, and editor files
 └── README.md                                               # This file
 ```
 
@@ -129,18 +131,18 @@ The site is organized into 7 main sections:
 | # | Section | Description |
 |---|---|---|
 | 1 | **Worklog** | Weekly activity logs covering 12 weeks of internship |
-| 2 | **Proposal** | Internship plan and project proposal |
-| 3 | **Blogs Posted** | Three blog posts about AWS Cloud, AI, frontend development, API integration, and the GreenLens Kids project |
+| 2 | **Proposal** | Internship plan and GreenLens Kids project proposal |
+| 3 | **Blogs Posted** | Three technical blog posts related to AWS Cloud, AI, frontend development, API integration, and GreenLens Kids |
 | 4 | **Events Participated** | Events and meetups attended during the internship period |
-| 5 | **Workshop** | Step-by-step technical lab documentation |
-| 6 | **Self-evaluation** | Self-assessment across professional and technical criteria |
-| 7 | **Sharing & Feedback** | Personal reflections, lessons learned, and feedback |
+| 5 | **Workshop** | GreenLens Kids project development process, frontend/API integration, and practical implementation documentation |
+| 6 | **Self-evaluation** | Self-assessment across professional, technical, and teamwork criteria |
+| 7 | **Sharing & Feedback** | Personal reflections, lessons learned, and feedback after the internship |
 
 ---
 
 ## 🗓️ Worklog Summary
 
-The worklog section summarizes my internship progress over 11 weeks. During this period, I learned AWS cloud fundamentals, practiced with AWS Skill Builder labs, and applied the knowledge to the **GreenLens Kids** project.
+The worklog section summarizes my internship progress over **12 weeks**. During this period, I learned AWS cloud fundamentals, practiced with AWS Skill Builder and AWS SimuLearn labs, and applied the knowledge to the **GreenLens Kids** project.
 
 | Week | Main Focus |
 |---|---|
@@ -152,9 +154,10 @@ The worklog section summarizes my internship progress over 11 weeks. During this
 | **Week 6** | Security Deep Dive & Initial UI / Backend Development |
 | **Week 7** | Architecture Review & Core API Development |
 | **Week 8** | Full Integration: Backend, Frontend & AI Camera Feature |
-| **Week 9** | Mini Game System: API Completion & Frontend Integration |
-| **Week 10** | Code Refactoring, Admin Dashboard & Personal Profile Page |
-| **Week 11** | Final Polish, GitHub Pages Deployment & Project Wrap-up |
+| **Week 9** | Child Profile API, AI Camera Result & Mascot Voice Guidance |
+| **Week 10** | Daily Streak UI/API & Feature Testing |
+| **Week 11** | Admin Dashboard UI/UX Adjustment |
+| **Week 12** | Final Internship Report & Document Submission Preparation |
 
 ---
 
@@ -168,7 +171,7 @@ My main responsibilities included:
 - Developing the **Character Creation** screen for children
 - Integrating the **Child Profile Creation API**
 - Building and improving the **AI Camera Result** interface
-- Integrating mascot voice guidance
+- Integrating mascot voice guidance using Text-to-Speech
 - Designing and integrating the **Daily Streak UI**
 - Working with API responses, loading states, error handling, and client-side data storage
 - Adjusting UI/UX for the **GreenLens Admin Dashboard**
@@ -245,7 +248,7 @@ http://localhost:1313/aws-internship-report-site/
 
 The main configuration is in [`config.toml`](./config.toml):
 
-- **`baseURL`** – Set to the GitHub Pages URL
+- **`baseURL`** – Set to the GitHub Pages URL: `https://Phuc540.github.io/aws-internship-report-site/`
 - **`theme`** – `hugo-theme-learn` / FCJ Workshop template
 - **`themeVariant`** – Custom AWS-styled workshop theme
 - **`defaultContentLanguage`** – `en` as the default language
@@ -285,4 +288,4 @@ Language switching is available in the site navigation.
 - 📁 [GitHub Repository](https://github.com/Phuc540/aws-internship-report-site)
 - 👥 [AWS FCJ Study Group (Facebook)](https://www.facebook.com/groups/awsstudygroupfcj/)
 - 🎨 [Hugo Theme Learn](https://github.com/matcornic/hugo-theme-learn)
-- Linkedin: https://www.linkedin.com/in/minh-ph%C3%BAc-9155a8403/
+- 💼 [LinkedIn](https://www.linkedin.com/in/minh-ph%C3%BAc-9155a8403/)

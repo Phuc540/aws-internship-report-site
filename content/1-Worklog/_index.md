@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-This worklog summarizes my internship progress over 11 weeks. During this period, I learned AWS cloud fundamentals, practiced with AWS Skill Builder labs, and applied the knowledge to the GreenLens Kids project.
+This worklog summarizes my internship progress over 12 weeks. During this period, I learned AWS cloud fundamentals, practiced with AWS Skill Builder labs, and applied the knowledge to the GreenLens Kids project.
 
-The weekly worklog includes AWS learning activities, project design, frontend development, API integration, UI/UX improvement, testing, and final project wrap-up.
+The weekly worklog includes AWS learning activities, project design, frontend development, API integration, UI/UX improvement, testing, report writing, and final internship document preparation.
 
 **Week 1:** [Getting Started with AWS: Accounts, Console & CLI](1.1-week1/)
 
@@ -22,12 +22,14 @@ The weekly worklog includes AWS learning activities, project design, frontend de
 
 **Week 6:** [Security Deep Dive & Initial UI / Backend Development](1.6-week6/)
 
-**Week 7:** [Architecture Review & Core API Development (Profile, AI Camera, Rewards)](1.7-week7/)
+**Week 7:** [Architecture Review & Core API Development](1.7-week7/)
 
 **Week 8:** [Full Integration: Backend, Frontend & AI Camera Feature](1.8-week8/)
 
-**Week 9:** [Mini Game System: API Completion & Frontend Integration](1.9-week9/)
+**Week 9:** [Child Profile API, AI Camera Result & Mascot Voice Guidance](1.9-week9/)
 
-**Week 10:** [Code Refactoring, Admin Dashboard & Personal Profile Page](1.10-week10/)
+**Week 10:** [Daily Streak UI/API & Feature Testing](1.10-week10/)
 
 **Week 11:** [Final Polish, GitHub Pages Deployment & Project Wrap-up](1.11-week11/)
+
+**Week 12:** [Final Internship Report & Document Submission Preparation](1.12-week12/)
