@@ -37,4 +37,4 @@ In the early version, we designed a flow where Amazon Rekognition and Amazon Bed
 Through continuous iteration, fixes, and refinement, our team came to realize that architecture design is not just about connecting services to satisfy functionality. The core and most challenging problem is finding the right trade-off between user experience, cost optimization, and system security limits.
 
 Special thanks to the First Cloud AI Journey organizers and mentors who followed our project closely. Their rigorous but practical reviews helped our team strengthen our thinking foundation and feel more confident and ready for future real-world projects.
-![alt text](../architecture.png)
+![alt text](/aws-internship-report-site/3-blogposted/architecture.png)

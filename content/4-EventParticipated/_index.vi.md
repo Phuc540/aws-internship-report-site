@@ -28,7 +28,7 @@ Mỗi sự kiện mang đến những trải nghiệm học tập khác nhau, đ
 
 &emsp;**Featuring:** Cloud Kinetics & Renova Cloud  
 
-&emsp;**Thời gian:** 09:00 – 12:00, ngày 04 tháng 07 năm 2026  
+&emsp;**Thời gian:** 09:00, ngày 04 tháng 07 năm 2026  
 
 &emsp;**Địa điểm:** Level 26, Bitexco Financial Tower  
 

@@ -28,7 +28,7 @@ Each event provided different learning experiences and helped me improve not onl
 
 &emsp;**Featuring:** Cloud Kinetics & Renova Cloud  
 
-&emsp;**Date & Time:** 09:00 – 12:00, July 04, 2026  
+&emsp;**Date & Time:** 09:00, July 04, 2026  
 
 &emsp;**Location:** Level 26, Bitexco Financial Tower  
 

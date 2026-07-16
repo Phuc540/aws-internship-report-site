@@ -37,4 +37,4 @@ Kiến trúc ban đầu của nhóm thiết lập các Lambda function khá rờ
 Trải qua quá trình liên tục rút kinh nghiệm, sửa chữa và hoàn thiện, cả team mới thực sự nhận ra rằng thiết kế architecture không chỉ đơn thuần là kết nối các service lại với nhau để đáp ứng đủ tính năng. Bài toán cốt lõi và cũng thách thức nhất luôn nằm ở việc tìm ra điểm trade-off hợp lý giữa trải nghiệm người dùng, khả năng tối ưu chi phí và giới hạn bảo mật của toàn hệ thống.
 
 Xin gửi lời cảm ơn chân thành đến ban tổ chức First Cloud AI Journey cùng các anh chị Mentor đã luôn tận tâm theo sát dự án. Những review khắt khe nhưng bám sát thực tế đã giúp nhóm củng cố nền tảng tư duy vững chắc, giúp tụi mình tự tin và sẵn sàng hơn cho các dự án thực tiễn sắp tới.
-![alt text](../architecture.png)
+![alt text](/aws-internship-report-site/3-blogposted/architecture.png)

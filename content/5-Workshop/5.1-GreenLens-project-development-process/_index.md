@@ -8,7 +8,7 @@ pre: " <b> 5.1. </b> "
 
 #### Overview
 
-The GreenLens project was developed by a team of four members. Vinh served as the team leader and was responsible for the backend development, core business logic, AWS account management, AWS services configuration, and deployment of the system to AWS. I and Hieu were responsible for frontend development.
+The GreenLens project was developed by a team of four members. Vinh served as the team leader and was responsible for the backend development, core business logic, AWS account management, AWS services configuration, and deployment of the system to AWS. Loi also contributed to the backend work, while I and Hieu were responsible for frontend development.
 
 #### Note
 
@@ -34,7 +34,7 @@ GreenLens was built as a collaborative project with clearly defined responsibili
 
 At the beginning of the project, the team reviewed the requirements and discussed the overall direction of the website. This preparation stage helped us define the scope of work, understand the expected functionality, and align the team before implementation began.
 
-- Backend development, business logic, AWS management, and deployment were assigned to Vinh.
+- Backend development, business logic, AWS management, and deployment were assigned to Vinh and Loi.
 - Frontend development was assigned to me and Hieu.
 - All tasks were created and tracked on Jira.
 - The source code was managed on GitHub to support collaboration and version control.
@@ -55,7 +55,7 @@ During this phase, the team paid attention to usability and consistency so the w
 
 ## 5. Backend Development
 
-On the backend side, Vinh developed the core logic of the project and implemented the APIs used by the frontend. This included handling business rules, processing requests, returning responses, and making sure the data flow between the client and server remained correct and reliable.
+On the backend side, Loi and Vinh developed the core logic of the project and implemented the APIs used by the frontend. This included handling business rules, processing requests, returning responses, and making sure the data flow between the client and server remained correct and reliable.
 
 In addition to the application logic, Vinh also managed the AWS account and configured the AWS services required by the project. This ensured the backend could be deployed and operated in a stable cloud environment.
 

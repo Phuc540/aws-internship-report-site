@@ -19,7 +19,7 @@ A personal internship report website built with **Hugo** and the **FCJ Workshop 
 | **Company** | Amazon Web Services Vietnam Co., Ltd. |
 | **Position** | Frontend Developer |
 | **Project** | GreenLens Kids |
-| **Duration** | 20/04/2026 – 10/07/2026 |
+| **Duration** | 17/04/2026 – 10/07/2026 |
 
 ---
 
