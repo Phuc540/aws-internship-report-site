@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at Amazon Web Services (AWS) Vietnam from 18/04/2026 to 10/07/2026, I had the opportunity to study and work in a professional, dynamic, and clearly oriented environment. This period helped me gain practical exposure to AWS Cloud knowledge, teamwork processes, product development, and how to apply technology to a specific project.
+During my internship at Amazon Web Services (AWS) Vietnam from 17/04/2026 to 30/07/2026, I had the opportunity to study and work in a professional, dynamic, and clearly oriented environment. This period helped me gain practical exposure to AWS Cloud knowledge, teamwork processes, product development, and how to apply technology to a specific project.
 
 In the **GreenLens Kids** project, I took on the role of **Frontend Developer**. I also participated in the process of designing interfaces, adjusting UI/UX, and integrating APIs for user-facing features. My main responsibilities included designing and building interfaces in Figma, developing the character creation screen for children, integrating the child profile creation API, building the AI Camera result interface, integrating mascot voice guidance, designing the Daily Streak interface, integrating the activity streak API, and adjusting the UI/UX for the Admin Dashboard.
 

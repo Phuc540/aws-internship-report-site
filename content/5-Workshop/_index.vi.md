@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-# Workshop
-
 #### Tổng quan
 
 Phần Workshop này hiện chỉ chứa quy trình phát triển dự án GreenLens.

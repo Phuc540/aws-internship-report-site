@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong thời gian thực tập tại Amazon Web Services (AWS) Vietnam từ 18/04/2026 đến 10/07/2026, em đã có cơ hội học tập và làm việc trong một môi trường chuyên nghiệp, năng động và có định hướng rõ ràng. Đây là khoảng thời gian giúp em tiếp cận thực tế với các kiến thức về AWS Cloud, quy trình làm việc nhóm, phát triển sản phẩm và cách áp dụng công nghệ vào một dự án cụ thể.
+Trong thời gian thực tập tại Amazon Web Services (AWS) Vietnam từ 17/04/2026 đến 30/07/2026, em đã có cơ hội học tập và làm việc trong một môi trường chuyên nghiệp, năng động và có định hướng rõ ràng. Đây là khoảng thời gian giúp em tiếp cận thực tế với các kiến thức về AWS Cloud, quy trình làm việc nhóm, phát triển sản phẩm và cách áp dụng công nghệ vào một dự án cụ thể.
 
 Trong dự án **GreenLens Kids**, em đảm nhận vai trò **Frontend Developer**, đồng thời tham gia vào quá trình thiết kế giao diện, điều chỉnh UI/UX và tích hợp API cho các chức năng phía người dùng. Nhiệm vụ chính của em bao gồm thiết kế và xây dựng giao diện trên Figma, phát triển màn hình tạo nhân vật cho trẻ em, tích hợp API tạo hồ sơ trẻ em, xây dựng giao diện kết quả AI Camera, tích hợp hướng dẫn bằng giọng nói cho mascot, thiết kế giao diện Daily Streak, tích hợp API chuỗi hoạt động, và điều chỉnh UI/UX cho Admin Dashboard.
 
